@@ -1,0 +1,59 @@
+* {
+  box-sizing: border-box;
+}
+
+html, body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  font-family: sans-serif;
+}
+
+.App {
+  height: 100vh;
+  text-align: center;
+}
+
+.main-cotainer {
+  display: flex;
+  width: 100%;
+  min-height: 100%;
+}
+
+.description-container, 
+.jobs-container {
+  flex: 1; 
+  padding: 20px; 
+  text-align: left;
+}
+
+.description-container {
+  background-color: #fdf9f6;
+  text-align: center;
+  position: sticky;
+  top: 0;
+  height: 100vh;
+  align-items: center;
+}
+
+.description-container img {
+  width: 50%;
+}
+
+.jobs-container {
+  background-color: #fee3c3;
+}
+
+.nav-btn {
+  background-color: #84855d;
+  color: #000;
+  border: none;
+  padding: 10px;
+  border-radius: 5px;
+  margin: 10px;
+}
+
+.nav-btn:hover {
+  color: #ff0202;
+  background-color: #000;
+}
