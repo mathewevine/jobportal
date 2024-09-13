@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/mathewjobPortal/static/css/main.59ed1987.css",
+    "main.js": "/mathewjobPortal/static/js/main.1c25630a.js",
+    "index.html": "/mathewjobPortal/index.html",
+    "main.59ed1987.css.map": "/mathewjobPortal/static/css/main.59ed1987.css.map",
+    "main.1c25630a.js.map": "/mathewjobPortal/static/js/main.1c25630a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.59ed1987.css",
+    "static/js/main.1c25630a.js"
+  ]
+}
